@@ -15,7 +15,7 @@
     align-items: center;
     height: 50%;
     width: 100%;
-    background-color:  #f1c12f ;
+    background-color:  rgb(27, 25, 18, 0.3) ;
 
 }
 
@@ -64,6 +64,7 @@
 .banner{
     margin: 0%;
     padding: 0%;
+    height: 532px;
 }
 
 
@@ -103,7 +104,7 @@ padding: 0%;
     color: #1F2E45;
 }
 
-.box {
+.item {
     margin: 20px;
     border-radius: 15px;
     width: 30%;
@@ -120,7 +121,7 @@ padding: 0%;
 }
 
 
-.box img {
+.item img {
     width: auto;
     height: 200px;
     align-items: center;
